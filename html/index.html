@@ -9,6 +9,7 @@
     <title>Home</title>
     <script src="../js/index.js"></script>
     <script src="../js/indexStarter.js"></script>
+    <script src="../js/popUpWindow.js"></script>
     <link href="../css/index.css"  rel="stylesheet">
 </head>
 
@@ -134,12 +135,23 @@
         <section class="link-info">
             <!--Links-->
             <h2>Информацията в тази страница беше взета от следните сайтове</h2><br>
-            <a class="button-more button-orange">Виж линковете</a>
+            <a onclick="popUpInfo()" class="button-more button-orange">Виж линковете</a>
         </section>
     </main>
     <footer>
         <p>@VarnaTours - 2022</p>
     </footer>
 </body>
+
+<!-- The Modal -->
+<div id="myModal" class="modal">
+
+  <!-- Modal content -->
+  <div class="modal-content">
+    <span class="close">&times;</span>
+    <p>Some text in the Modal..</p>
+  </div>
+
+</div>
 
 </html>

@@ -30,10 +30,6 @@
     -moz-columns: 3;
     }
     
-    a:hover{
-        text-decoration: underline;
-    }
-    
     li{
         color: #30608F;
         font-size: 1.1em;

@@ -262,3 +262,16 @@ footer p{
     text-decoration: none;
     cursor: pointer;
   }
+
+  ul#listForModal {
+      background-color: #B8D9E4;
+    columns: 3;
+    -webkit-columns: 3;
+    -moz-columns: 3;
+  }
+
+  li{
+      color: #30608F;
+      font-size: 1.1em;
+      padding: 0.7em;
+  }

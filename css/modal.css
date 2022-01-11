@@ -1,0 +1,41 @@
+  
+/* Modal Content */
+.modal-content {
+    background-color: #fefefe;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #888;
+    width: 80%;
+    }
+    
+    /* The Close Button */
+    .close {
+    color: #aaaaaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+    }
+    
+    .close:hover,
+    .close:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+    }
+    
+    ul#listForModal {
+        background-color: #B8D9E4;
+    columns: 3;
+    -webkit-columns: 3;
+    -moz-columns: 3;
+    }
+    
+    a:hover{
+        text-decoration: underline;
+    }
+    
+    li{
+        color: #30608F;
+        font-size: 1.1em;
+        padding: 0.7em;
+    }

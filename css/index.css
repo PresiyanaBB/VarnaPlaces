@@ -116,8 +116,8 @@ header h1{
 
 .cards button{
     float:right;
-    margin-right: 5.5%;
     position: relative;
+    margin-right: 5.5%;
     margin-top: -8%;
     background-color: #FFDC9F;
     border-width: 0px;

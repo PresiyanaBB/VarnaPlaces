@@ -6,7 +6,7 @@ main{
 header{
     background-image: url("../SVG/AboutUs_fixed.svg");
     background-repeat: no-repeat;
-    min-height: 301px;
+    min-height: 300px;
 }
 
 header img{
@@ -26,4 +26,40 @@ header div{
     position: relative;
     top:110px;
     left:240px;
+}
+
+.top-part{
+    padding-top: 20px;
+    margin-bottom:70px;
+}
+
+.top-part img{
+    width: 450px;
+    height: 300px;
+    margin-left: 45px;
+    float:left;
+    border-radius: 13px;
+}
+
+.top-part p{
+    width:500px;
+    display: inline-block;
+    margin-top:80px;
+    margin-left:100px;
+    font-size: larger;
+}
+
+.bottom-part p{
+    margin-left:50px;
+    margin-right:70px;
+    font-size: larger;
+}
+
+.video-section{
+    text-align: center;
+}
+
+.video-section iframe{
+    width:900px;
+    height:500px;
 }

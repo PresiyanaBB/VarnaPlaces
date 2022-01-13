@@ -1,5 +1,29 @@
+main{
+    background-color: #C1F0FF;
+    
+}
+
 header{
-    background-image: url("../SVG/Header_fixed.svg");
+    background-image: url("../SVG/AboutUs_fixed.svg");
     background-repeat: no-repeat;
     min-height: 301px;
+}
+
+header img{
+    width: 390px;
+    height: 280px;
+    float:right;
+    margin-right: 40px;
+    margin-top:10px;
+    border-radius: 13px;
+}
+
+header h1{
+    margin:0;
+}
+
+header div{
+    position: relative;
+    top:110px;
+    left:240px;
 }

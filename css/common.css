@@ -55,3 +55,16 @@ nav{
     border-color: #30608F;
     margin-right: 10px;
 }
+
+footer{
+    background-color: #30608F;
+    height: 60px;
+    color:#ffeed2;
+    text-align: center;
+}
+
+footer p{
+    margin:0px;
+    position:relative;
+    top:36px;
+}

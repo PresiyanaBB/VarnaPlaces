@@ -1,0 +1,57 @@
+a:any-link{
+    color:#30608F;
+    text-decoration: none;
+}
+
+body{
+    margin: 0px;
+    font-family: Tahoma, sans-serif;
+    color: #30608F;
+    background-color: #497A83;
+}
+
+main{
+    width:1200px;
+    margin:auto;
+    box-shadow: 0px 0px 30px #00000094;
+}
+
+nav{
+    position: relative;
+    height: 80px;
+    padding-left:4.5%;
+    background-color: #B8D9E4;
+    box-shadow: 0px 5px 6px #00000045;
+    justify-content: space-around;
+}
+
+.logo{
+    display:inline-block;
+}
+
+.logo img{
+    height:45px;
+    width: 45px;
+    display: inline-block;
+    margin-top:34%;
+}
+
+.nav-buttons{
+    float:right;
+    margin-right: 7%;
+    position: relative;
+    top:36%;
+    font-size: 16pt;
+}
+
+.nav-buttons a, .nav-buttons div{
+    display: inline-block;
+}
+
+.vertical-line{
+    width: 1px;
+    height:10px;
+    border-width: 1px;
+    border-color: #30608F;
+    margin-right: 10px;
+}

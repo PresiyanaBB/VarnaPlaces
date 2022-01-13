@@ -107,7 +107,7 @@ header h1{
 }
 
 .cards{
-    background-image: url("../SVG/Card.svg");
+    background-image: url("../SVG/Card_fixed.svg");
     background-repeat: no-repeat;
     min-height: 354px;
     padding-top: 2.5%;
@@ -164,7 +164,7 @@ header h1{
 }
 
 .about-us{
-    background-image: url("../SVG/AboutUs.svg");
+    background-image: url("../SVG/AboutUs_fixed.svg");
     background-repeat: no-repeat;
     min-height: 300px;
     padding-top: 2.5%;

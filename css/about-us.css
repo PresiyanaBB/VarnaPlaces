@@ -1,6 +1,7 @@
 main{
+    margin-top: -40px;
     background-color: #C1F0FF;
-    height: 2200px; /*promeni go posle nz*/
+    height: 2180px; 
 }
 
 header{

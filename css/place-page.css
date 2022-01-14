@@ -1,6 +1,6 @@
 main{
     background-color: #C1F0FF;
-    
+    padding-bottom: 20px;
 }
 
 header{
@@ -62,4 +62,5 @@ header div{
 .video-section iframe{
     width:50em;
     height:27em;
+    border-radius: 10px;
 }

@@ -1,7 +1,7 @@
 main{
     margin-top: -40px;
     background-color: #C1F0FF;
-    height: 2180px; 
+    padding-bottom: 30px;
 }
 
 header{
@@ -39,6 +39,7 @@ img#mg{
     border: 2px solid #30608F;
     margin: 7em;
     margin-top: 1em;
+    margin-bottom:50px;
 }
 
 p#second-left-text{
@@ -56,6 +57,7 @@ img#line-1{
     margin: 2em;
     margin-top: 1em;
     margin-right: 60px;
+    margin-left: 90px;
 }
 
 img#line-2{
@@ -64,14 +66,20 @@ img#line-2{
     height: 20em;
     border-radius: 2em;
     border: 2px solid #30608F;
-    margin: 7em;
+    margin-right: 7em;
     margin-top: -22.2em;
     margin-left: 60px;
+    margin-bottom: 0;
 }
 
 p#big-text{
-    font-size: 1.4em;
-    margin-top: 630px;
+    font-size: 15pt;
+    margin-top: 500px;
     margin-left: 60px;
     margin-right: 60px;
+    background-color: white;
+    border-radius: 10px;
+    padding:10px;
+    border: 2px solid #30608F;
+    margin-bottom: 0;
 }
